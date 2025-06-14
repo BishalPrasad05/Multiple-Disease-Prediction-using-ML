@@ -18,16 +18,21 @@ This is a full-stack web application that predicts the risk of **Coronary Artery
 ## 🖼️ Screenshots
 
 ### 🔹 Home Page
-![Home Page](screenshots/homepage.png)
+![Screenshot 2025-06-11 232533](https://github.com/user-attachments/assets/16d560ab-9631-4d2e-847c-9fba7ba9e9e2)
 
 ### 🔹 CAD Prediction Form
-![CAD Form](screenshots/cad_form.png)
+![Screenshot 2025-06-11 231710](https://github.com/user-attachments/assets/86d6a701-c541-4527-85ea-27ee5562beb0)
 
-### 🔹 Arrhythmia Classifier
-![Arrhythmia Form](screenshots/arrhythmia_form.png)
+### 🔹 Arrhythmia Classifier Form
+![Screenshot 2025-06-11 232559](https://github.com/user-attachments/assets/06558bc9-8a28-44fb-8af1-152ceeab3f34)
 
 ### 🔹 Result Output
-![Prediction Result](screenshots/prediction_result.png)
+
+![Screenshot 2025-06-11 231643](https://github.com/user-attachments/assets/704a1df6-d235-4cb7-9a1b-a0e77ca85168)
+![Screenshot 2025-06-11 231746](https://github.com/user-attachments/assets/e9928ab5-5afc-4c6f-959a-c58857d5d1f0)
+![Screenshot 2025-06-11 233015](https://github.com/user-attachments/assets/896ca084-fe25-4373-8519-86575a051fe8)
+![Screenshot 2025-06-11 233559](https://github.com/user-attachments/assets/91a1b69e-ef62-477c-a466-52d89be5a4da)
+
 
 ---
 
