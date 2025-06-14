@@ -41,7 +41,6 @@ heart-health-app/
 │   ├── models/
 │   │   ├── heart.pkl                  # Trained CAD model
 │   │   ├── arrhythmia20-f.pkl         # Trained Arrhythmia model
-│   └── requirements.txt
 │
 ├── frontend/
 │   ├── public/
@@ -68,8 +67,8 @@ heart-health-app/
 ### 🔹 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/heart-health-app.git
-cd heart-health-app
+git clone https://github.com/BishalPrasad05/Multiple-heart-disease-prediction-using-ML.git
+cd Multiple-heart-disease-prediction-using-ML
 ```
 
 ---
@@ -105,8 +104,8 @@ npm start
 
 ### 🔸 Coronary Artery Disease (CAD) Prediction
 - Features: age, sex, cholesterol, chest pain type, etc.
-- Model: `RandomForestClassifier`
-- Accuracy: ~85%
+- Model: `RandomForest`
+- Accuracy: ~95%
 - Output: `"At Risk"` or `"Not at Risk"`
 
 ### 🔸 Arrhythmia Classification
