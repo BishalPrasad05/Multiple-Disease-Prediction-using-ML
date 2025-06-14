@@ -72,8 +72,8 @@ Multiple-Heart-Disease-Prediction-using-ML/
 ### 🔹 1. Clone the Repository
 
 ```bash
-git clone https://github.com/BishalPrasad05/Multiple-heart-disease-prediction-using-ML.git
-cd Multiple-heart-disease-prediction-using-ML
+git clone https://github.com/BishalPrasad05/Multiple-Heart-Disease-Prediction-using-ML.git
+cd Multiple-Heart-Disease-Prediction-using-ML
 ```
 
 ---
@@ -109,13 +109,13 @@ npm start
 
 ### 🔸 Coronary Artery Disease (CAD) Prediction
 - Features: age, sex, cholesterol, chest pain type, etc.
-- Model: `RandomForest`
+- Model: `RandomForest Algorithm`
 - Accuracy: ~95%
 - Output: `"At Risk"` or `"Not at Risk"`
 
 ### 🔸 Arrhythmia Classification
 - Features: 20 ECG-derived signals (e.g., `T_Wave`, `QRS_Dur`, etc.)
-- Model: `RandomForest`
+- Model: `Kernalized SVC with PCA`
 - Accuracy: ~%80
 - Output Classes: `[1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 14.0, 15.0, 16.0]`
 
