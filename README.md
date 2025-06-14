@@ -39,7 +39,7 @@ This is a full-stack web application that predicts the risk of **Coronary Artery
 ## 🏗️ Folder Structure
 
 ```
-heart-health-app/
+Multiple-Heart-Disease-Prediction-using-ML/
 │
 ├── backend/
 │   ├── app.py                         # Flask backend API
